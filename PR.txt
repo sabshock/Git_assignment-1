@@ -1,0 +1,12 @@
+Feature updates via Whatsapp: Feature/FEAPP-420 : Allow customer notification via WhatsApp
+
+PR Description: Adding an additional option to get updates about the productes via WhatsApp
+
+Customer has an existing option of geting updates on email and now we are adding in the additonal optional feature of geting updates via Whatsapp.
+which helps coustomer to be up to date on our products.
+
+Notes:
+add all dependencies and tested the working of new feature.
+
+PR Reviewers:
+Add your teammates, including the lead.
